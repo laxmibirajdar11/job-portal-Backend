@@ -30,4 +30,3 @@ PORT=8000
 MONGO_URI=mongodb://localhost:27017/job_portal
 JWT_SECRET=your_secret_key
 ```
-
